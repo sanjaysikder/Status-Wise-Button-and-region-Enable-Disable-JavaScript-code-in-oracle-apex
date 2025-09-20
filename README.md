@@ -15,9 +15,9 @@
 
 
 
-# Add JavaScript Code (Page load or Status change event):
+# Add JavaScript Code (Page load or Item change event):
 
-- Add this javascript code on Page load or Status change event or item change event
+- Add this javascript code on Page load or Status or Item change event or item change event
 
 
 ```javascript code
